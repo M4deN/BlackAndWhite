@@ -50,11 +50,6 @@ header {
     animation: leftSideAni 1s ease forwards;
 }
 
-.logo a {
-    color: #fff;
-    text-decoration: none;
-}
-
 ul {
     display: flex;
     gap: .6rem;
@@ -117,9 +112,9 @@ li a:hover {
     font-size: 1.5rem;
     opacity: 0;
     animation: topSideAni 1s ease forwards;
-    top: 25%;
     position: static;
 }
+
 .main h1 {
     margin-top: 30%;
     color: var(--primary-color);
@@ -166,10 +161,9 @@ li a:hover {
 }   
 .images img {
     position: static;
-    border-radius: 50%;
+    border-radius: 60%;
     box-shadow: 0 0 15px #D1D9E6;
 }
-
 
 ul {
     list-style: none;
@@ -179,6 +173,11 @@ ul {
 
   li {
     margin-right: 20px;
+  }
+
+  .logo img {
+    width: 30px; 
+    height: auto; 
   }
 
   a {
