@@ -4,6 +4,7 @@ Este projeto é um portfólio pessoal desenvolvido seguindo conceitos de apenas 
 
 # Navegação
 
+https://github.com/M4deN/BlackAndWhite/assets/43422425/9c317cbe-06e2-46a6-a271-d3a1c2aa7e48
 
 ## Estrutura do Projeto
 
